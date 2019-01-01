@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Do It
 //
-//  Created by Laura Chrest on 1/1/19.
+//  Created by Dan Chrest on 1/1/19.
 //  Copyright © 2019 Dan Chrest. All rights reserved.
 //
 
