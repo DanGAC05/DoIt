@@ -14,7 +14,6 @@
 		94855F2221DBFBFF0059676D /* Do_It.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 94855F2021DBFBFF0059676D /* Do_It.xcdatamodeld */; };
 		94855F2421DBFC010059676D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 94855F2321DBFC010059676D /* Assets.xcassets */; };
 		94855F2721DBFC010059676D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 94855F2521DBFC010059676D /* LaunchScreen.storyboard */; };
-		94855F2F21DBFFE50059676D /* task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94855F2E21DBFFE50059676D /* task.swift */; };
 		94855F3121DC08870059676D /* CreateTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 94855F3021DC08870059676D /* CreateTaskViewController.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		94855F2321DBFC010059676D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		94855F2621DBFC010059676D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		94855F2821DBFC010059676D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		94855F2E21DBFFE50059676D /* task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = task.swift; sourceTree = "<group>"; };
 		94855F3021DC08870059676D /* CreateTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreateTaskViewController.swift; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
@@ -66,7 +64,6 @@
 				94855F1B21DBFBFF0059676D /* TasksViewController.swift */,
 				94855F3021DC08870059676D /* CreateTaskViewController.swift */,
 				9429C1BF21E14F38001DA01D /* CompleteTaskViewController.swift */,
-				94855F2E21DBFFE50059676D /* task.swift */,
 				94855F1D21DBFBFF0059676D /* Main.storyboard */,
 				94855F2321DBFC010059676D /* Assets.xcassets */,
 				94855F2521DBFC010059676D /* LaunchScreen.storyboard */,
@@ -147,7 +144,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				94855F2F21DBFFE50059676D /* task.swift in Sources */,
 				94855F2221DBFBFF0059676D /* Do_It.xcdatamodeld in Sources */,
 				9429C1C021E14F38001DA01D /* CompleteTaskViewController.swift in Sources */,
 				94855F1C21DBFBFF0059676D /* TasksViewController.swift in Sources */,
